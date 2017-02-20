@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="ResourcesFx">
+    <output-path>$PROJECT_DIR$/out/вовв</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="sample.Main" />
+        <option name="description" value="" />
+        <option name="htmlParamFile" value="" />
+        <option name="paramFile" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="ResourcesFx.jar">
+        <element id="module-output" name="ResourcesFx" />
+      </element>
+    </root>
+  </artifact>
+</component>
